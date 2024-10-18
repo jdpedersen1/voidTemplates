@@ -12,8 +12,8 @@
 - run sudo xbps-install --repository hostdir/binpkgs <packageName>  
   
 # !NOTE!
-## As always, open the template file and read its contents before installing, this is a best practice for all software you are
-getting from someone else. Always understand what is happining, what is being installed, and make sure it is what you want to do.
+## As always, open the template file and read its contents before installing, this is a best practice for all software you aregetting from someone else. 
+Always understand what is happining, what is being installed, and make sure it is what you want to do.
 UNDERSTAND ALL COMMANDS AND WHAT THEY DO BEFORE RUNNING.
 
 
